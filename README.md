@@ -58,13 +58,13 @@
 ```
 ## 📌 Pinned Projects
 
-- 🧠 [**Email-Spam-Detection-fork**](https://github.com/park-bit/Email-Spam-Detection-fork)  
+-  [**Email-Spam-Detection-fork**](https://github.com/park-bit/Email-Spam-Detection-fork)  
   Forked from kanagalingamcse. Improved ML pipeline with NLTK + scikit-learn, model saving, and better vectorizer handling.
 
-- 🎧 [**wyvern-downloader**](https://github.com/park-bit/wyvern-downloader)  
+-  [**wyvern-downloader**](https://github.com/park-bit/wyvern-downloader)  
   yt-dlp GUI frontend. Format selector, queue system, pause/resume — no terminal needed.
 
-- 💪 [**glowiq**](https://github.com/park-bit/glowiq)  
+-  [**glowiq**](https://github.com/park-bit/glowiq)  
   Fitness & wellness app template powered by Flutter and ML. Experimental but promising.
 
 ---
@@ -87,6 +87,6 @@
 
 ---
 
-> Forks improved. Bugs avoided. Spam filtered.  
+> If you're having a hard time, don't. 
 > *– park-bit*
 
