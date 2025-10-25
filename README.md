@@ -1,7 +1,7 @@
 ## Hi there 👋
-# 👨‍💻 park-bit (he/him/the honoured one)
+#  park-bit (he/him/the honoured one)
 
-> 📬 I mess around with GUIs and download tools.
+>  I mess around with GUIs and download tools.
 
 ```text
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣤⣤⣶⡴⠶⠾⠛⠛⠛⠛⠛⠛⠋⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠙⠛⠛⠓⠚⠳⠶⠶⣤⣤⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -56,20 +56,23 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣯⣽⣝⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀
 ```
-## 📌 Pinned Projects
+##  Pinned Projects
 
 -  [**Email-Spam-Detection-fork**](https://github.com/park-bit/Email-Spam-Detection-fork)  
-  Forked from kanagalingamcse. Improved ML pipeline with NLTK + scikit-learn, model saving, and better vectorizer handling.
+  Forked from kanagalingamcse. Improved ML pipeline with NLTK + scikit-learn, model saving, and better vectorizer handling
 
 -  [**wyvern-downloader**](https://github.com/park-bit/wyvern-downloader)  
-  yt-dlp GUI frontend. Format selector, queue system, pause/resume — no terminal needed.
+  yt-dlp GUI frontend. Format selector, queue system, pause/resume — no terminal needed
 
 -  [**glowiq**](https://github.com/park-bit/glowiq)  
-  Fitness & wellness app template powered by Flutter and ML. Experimental but promising.
+  Fitness & wellness app template powered by Flutter and ML
+
+-  [**BingeRecc**](https://github.com/park-bit/BingeRecc)  
+  Movie Reccomender built on steamlit ahh
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
@@ -80,13 +83,13 @@
 
 ---
 
-## 📭 Contact
+##  Contact
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/parth-bhuskade-8a4609290)
-- 🧠 Currently building: nerdy ML apps, spam filters, CLI/GUI tools
+-  [LinkedIn](https://www.linkedin.com/in/parth-bhuskade-8a4609290)
+-  Currently building: nerdy ML apps, spam filters, CLI/GUI tools
 
 ---
 
 > If you're having a hard time, don't. 
-> *– park-bit*
+> *~park-bit*
 
