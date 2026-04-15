@@ -1,7 +1,77 @@
-## Hi there 👋
-#  park-bit (he/him/the honoured one)
+## Hey there 👋
+# park-bit | (he/him)
 
->  I mess around with GUIs and download tools.
+> **studying AI · ML · Data Science · DevOps · Analytics**
+> turning caffeine into models and shipped features.
+
+---
+
+## 🚀 Side Quests & Main Missions
+
+- 💰 [**Scrawny-Spend**](https://github.com/park-bit/Scrawny-Spend)  
+  AI-powered expense tracker with smart ML categorization. React + Node.js + MongoDB.
+  
+- 🤖 [**llm-rag-qna-ver3**](https://github.com/park-bit/llm-rag-qna-ver3)  
+  Multi-LLM Document Q&A using RAG (Groq/Ollama). Built with LangChain & Python.
+  
+- 🔐 [**PasMa-desktop**](https://github.com/park-bit/PasMa-desktop)  
+  Lightweight and secure desktop Password Manager. Python + Tkinter logic.
+
+- 📥 [**wyvern-downloader**](https://github.com/park-bit/wyvern-downloader)  
+  yt-dlp GUI frontend for people who find the terminal scary. Python + Tkinter.
+
+---
+
+##  Deep Tech Stack
+
+###  AI & Machine Learning
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+###  Data Science & Analytics
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+###  Web & Microservices
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+###  DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+##  Analytics & Progress
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=park-bit&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=park-bit&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+</p>
+
+---
+
+## 🔗 Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/parth-bhuskade)
+---
+
+> If you're having a hard time, don't.  
+> *~park-bit*
+
+<br>
+
+<details>
+<summary><b>✨ Still Here? ✨</b></summary>
 
 ```text
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣤⣤⣶⡴⠶⠾⠛⠛⠛⠛⠛⠛⠋⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠙⠛⠛⠓⠚⠳⠶⠶⣤⣤⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -19,7 +89,7 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠳⣦⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀          ⢠⣾⠃⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠻⢶⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀        ⢀⣴⠟⠉⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠛⠷⢶⣤⣄⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀      ⠀⠀⠀⣠⣴⠟⠁⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠛⠛⠛⠳⠶⠶⠶⣶⠶⢶⣶⣤⣤⣤⣤⣤⣤⣀⣀⣀⣀⣀⣀⣀⣄⣀⣀⣀⣀⣀⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⡶⠟⠋⠁⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠛⠛⠛⠳⠶⠶⠶⣶⠶⢶⣶⣤⣤⣤⣤⣤⣤⣀⣀⣀⣀⣀⣀⣀⣄⣀⣀⣀⣀⣀⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⡶⠟⠋⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⢹⣿⠉⠀⠀⠀⠀⠀⠀⢰⣶⣦⣤⣤⣤⣠⣀⣤⣤⣤⣶⠶⠾⠛⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡿⠀⠀⠀⠀⠀⣠⡶⠟⠁⠀⠀⠀⠈⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡏⠀⠀⠀⢀⣼⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -36,11 +106,11 @@
 ⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⣀⡀⠄⠒⠊⠉⠀⠀⠀⠀⠀⠀⠀⠖⠋⠁⠀⠀⠀⢀⡠⠖⠉⠀⢀⡴⠋⠀⠀⠀⢰⠇⠀⠀⢷⠀⠀⠀⠀⠉⠲⣄⠀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠉⠓⠒⠠⢄⣀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠈⠙⠭⢍⣉⣉⠉⠁⠀⠀⠀⡠⠀⣀⡠⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡠⠖⠉⠀⠀⣀⡴⠋⠀⠀⠀⠀⠀⢸⡇⠀⠀⠘⡆⠀⠀⠀⠀⠀⠈⠳⡄⡉⠢⣄⠀⠀⠀⠀⠀⠢⣄⣀⣀⣀⣈⠩⠬⠕⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠁⢒⠔⣫⠔⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⢀⡴⠋⠀⠀⠀⠀⠀⠁⠀⠀⠀⠀⠀⡀⢠⡟⠀⢰⠆⠀⢿⠀⠀⠀⠀⠀⠀⠀⠙⢧⠀⠀⠙⢦⡀⠀⠀⠀⠀⠉⠓⠤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡴⠗⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡼⠃⢠⠇⠀⠀⠀⢠⠆⠀⠀⢠⠄⠀⠀⢀⡾⠁⢠⠏⡄⠀⠈⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠀⠀⠀⠲⣄⣀⠀⠀⠈⠙⠒⠤⠤⠄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡴⠗⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡼⠋⠀⠀⢰⠇⠀⠀⠀⢠⠆⠀⠀⢠⠄⠀⠀⢀⡾⠁⢠⠏⡄⠀⠈⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠀⠀⠀⠲⣄⣀⠀⠀⠈⠙⠒⠤⠤⠄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⢀⣠⠴⠚⣁⠠⠔⠊⠀⢀⡄⠀⠀⠀⠀⠀⠀⣰⠏⠀⢀⣾⠀⢰⠃⣠⣿⠂⠂⣰⣿⠀⣤⠀⡾⢁⣴⢯⢠⠇⠀⠀⣿⠀⠀⢠⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⣌⠉⠉⠁⠉⠈⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⡀⠀⠠⠀⣚⠩⠄⠂⠡⠤⣰⠆⠀⣠⠟⠀⠀⡀⠀⠀⠀⠀⠀⠀⠀⣰⡇⢠⠇⣼⣿⡇⠀⣴⣿⡿⠀⣸⠞⣠⡟⢁⠇⣼⣱⠀⠀⣿⣧⠀⢸⣧⡀⠀⠀⡄⢷⠀⠀⠀⠀⠀⠀⠀⠈⠲⢄⡈⠙⢦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⢀⣠⠔⠋⣀⠴⡾⠃⢀⡇⣼⠁⠀⠀⠀⠀⡔⠀⣴⣿⠀⡏⣼⡿⢿⡇⢰⣿⢫⢇⣜⣱⠟⠉⠀⡼⢸⣫⣽⠀⢸⣯⠻⡆⢈⣿⣷⣄⠀⠸⣸⡄⠀⣤⠈⣦⡀⣆⢠⡀⠐⠬⣓⣀⠉⠓⠤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⢀⣀⡤⠖⠥⠒⠚⠉⢁⡞⡡⢠⠟⠀⣿⠀⠀⠀⠀⢠⠇⣰⡿⢿⠰⣿⣿⣥⣼⢀⣿⢃⣾⢛⣼⣿⠂⠂⢰⣱⣿⠋⢽⠀⣾⣿⣤⣽⡀⡷⠼⢿⣆⠀⣧⣇⠀⢸⠀⣿⡽⣌⣧⢿⢦⡀⠀⣙⠢⢉⡉⠁⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⢀⣀⡤⠖⠥⠒⠚⠉⢁⡞⡡⢠⠟⠀⣿⠀⠀⠀⠀⢠⠟⠀⣿⠀⠀⠀⠀⢠⠇⣰⡿⢿⠰⣿⣿⣥⣼⢀⣿⢃⣾⢛⣼⣿⠂⠂⢰⣱⣿⠋⢽⠀⣾⣿⣤⣽⡀⡷⠼⢿⣆⠀⣧⣇⠀⢸⠀⣿⡽⣌⣧⢿⢦⡀⠀⣙⠢⢉⡉⠁⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡯⢎⡴⣫⢆⣧⣿⢀⠀⡆⠀⣸⢠⡿⣁⣚⢸⣏⣠⣤⣭⣾⣯⣽⠇⣼⣟⢻⠀⣴⣿⠿⢳⣿⡟⣰⣟⣯⣴⣦⣿⣥⣀⣈⣿⣧⠸⣗⠀⢸⢰⢹⣷⣌⠀⠘⣏⠛⠲⠤⣍⣀⣈⣓⡲⠤⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⢀⡼⣫⣴⠿⢋⣿⣿⣿⣿⠸⡄⡇⠀⢱⣾⣷⡿⢿⠛⣿⣿⣿⣿⠿⣿⣿⡺⠉⠙⢏⣰⠟⠃⠘⠉⠉⢽⣿⡿⢿⣿⣿⣿⣟⠛⠻⣷⣿⣇⣯⠀⣆⡟⣼⢷⣹⣧⡀⠻⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⣀⣴⠟⠛⠉⠀⢠⣟⣾⡏⠛⢻⡄⣷⡱⢀⢸⠃⠉⣷⣤⣶⣿⣿⣿⣿⣿⣻⣿⣦⡄⠘⢻⠅⠀⠀⠀⣠⣴⣾⣿⣿⣿⣿⣿⣿⣿⣦⣀⡿⠁⠘⣯⠀⣿⣷⣿⠛⠋⢿⠙⠳⢿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -48,48 +118,12 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠿⢦⣈⠙⠿⢷⣸⠹⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠻⠿⠿⠟⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡏⠉⣹⣿⠿⠟⢋⣤⡾⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣤⠀⠹⣇⠀⠙⠿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠃⠠⣤⣀⢠⣤⠀⠘⠻⠿⣿⣿⣿⣿⣿⣿⡿⠟⠃⠀⢠⡿⠁⠀⣤⡿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠓⠒⢻⣇⠀⠀⠀⠀⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⠀⠀⢀⣾⠗⠒⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⣆⠀⠀⠀⠀⠀⠦⣤⣄⣀⣀⣀⣀⣠⣀⣀⣀⣀⣤⣤⣤⣤⡤⠶⠓⠀⠀⠀⠀⢀⣾⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣷⣬⣀⠀⠀⠀⠀⠀⠀⠀⠀⠶⠶⠶⠶⠶⠶⠒⠂⠀⠀⠀⠀⠀⠀⢄⣠⣶⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⢿⣿⢹⢳⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⡶⣟⣿⡟⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣨⣿⢻⣏⠻⢍⠳⣦⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⡶⠻⠍⣾⢧⣿⣥⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣬⣿⣃⣂⣓⠓⠯⣟⣦⣤⣀⣀⣀⣀⣠⣴⡞⢫⣁⣡⣙⣸⣯⣥⣿⣿⣿⣿⣿⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣯⣽⣝⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⣆⠀⠀⠀⠀⠀⠦⣤⣄⣀⣀⣀⣀⣠⣀⣀⣀⣀⣤⣤⣤⣤⡤⠶⠓⠀⠀⠀⠀⢀⣾⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣷⣬⣀⠀⠀⠀⠀⠀⠀⠀⠀⠶⠶⠶⠶⠶⠶⠒⠂⠀⠀⠀⠀⠀⠀⢄⣠⣶⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⢿⣿⢹⢳⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⡶⣟⣿⡟⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣨⣿⢻⣏⠻⢍⠳⣦⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⡶⠻⠍⣾⢧⣿⣥⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣬⣿⣃⣂⣓⠓⠯⣟⣦⣤⣀⣀⣀⣀⣠⣴⡞⢫⣁⣡⣙⣸⣯⣥⣿⣿⣿⣿⣿⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣯⣽⣝⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀
 ```
-##  Pinned Projects
-
--  [**Email-Spam-Detection-fork**](https://github.com/park-bit/Email-Spam-Detection-fork)  
-  Forked from kanagalingamcse. Improved ML pipeline with NLTK + scikit-learn, model saving, and better vectorizer handling
-
--  [**wyvern-downloader**](https://github.com/park-bit/wyvern-downloader)  
-  yt-dlp GUI frontend. Format selector, queue system, pause/resume — no terminal needed
-
--  [**glowiq**](https://github.com/park-bit/glowiq)  
-  Fitness & wellness app template powered by Flutter and ML
-
--  [**BingeRecc**](https://github.com/park-bit/BingeRecc)  
-  Movie Reccomender built on steamlit ahh
-
----
-
-##  Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![NLTK](https://img.shields.io/badge/NTLK-darkgreen?style=flat)
-![yt-dlp](https://img.shields.io/badge/yt--dlp-282C34?style=flat&logo=youtube&logoColor=red)
-
----
-
-##  Contact
-
--  [LinkedIn](https://www.linkedin.com/in/parth-bhuskade-8a4609290)
--  Currently building: nerdy ML apps, spam filters, CLI/GUI tools
-
----
-
-> If you're having a hard time, don't. 
-> *~park-bit*
-
+</details>
