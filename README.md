@@ -1,4 +1,4 @@
-## Hey there 👋
+## Hey there!!
 # park-bit | (he/him)
 
 > **studying AI · ML · Data Science · DevOps · Analytics**
@@ -6,56 +6,71 @@
 
 ---
 
-## 🚀 Side Quests & Main Missions
+##  Side Quests & Main Missions
+-  [**SQLide**](https://github.com/park-bit/SQLide)
+  Modern browser-based cross-platform SQL workspace built for rapid querying, intelligent schema exploration, and efficient database operations. Powered by WebAssembly (WASM) for fully serverless local execution with no   backend or database dependency, featuring a lightweight developer-focused interface, real-time query execution, multi-database support, and a fast privacy-first workflow optimized for scalability and productivity.
+  [link](https://sqlide.is-a.dev/)
 
-- 💰 [**Scrawny-Spend**](https://github.com/park-bit/Scrawny-Spend)  
-  AI-powered expense tracker with smart ML categorization. React + Node.js + MongoDB.
+-  [**Scrawny-Spend**](https://github.com/park-bit/Scrawny-Spend)  
+  Sign in based, AI-powered personal finance platform featuring intelligent expense tracking, neural network–based spending analysis, budget prediction, automated categorization, and real-time financial insights. Built    with a scalable   full-stack architecture using React, Node.js, MongoDB, and integrated ML pipelines for smart analytics and adaptive budgeting.
+  [link](https://scrawnyspend.netlify.app/)
   
-- 🤖 [**llm-rag-qna-ver3**](https://github.com/park-bit/llm-rag-qna-ver3)  
-  Multi-LLM Document Q&A using RAG (Groq/Ollama). Built with LangChain & Python.
+-  [**DocMeant**](https://github.com/park-bit/DocMeant)  
+  High-performance local-first document intelligence platform built for private RAG-powered knowledge retrieval, semantic search, and AI-assisted document analysis. Designed with GPU-optimized local inference pipelines,   multi-LLM support, vector embeddings, and advanced retrieval workflows using LangChain, Python, and modern NLP tooling, enabling secure offline document Q&A, contextual summarization, and intelligent information
+  extraction without relying on external cloud services.
   
-- 🔐 [**PasMa-desktop**](https://github.com/park-bit/PasMa-desktop)  
-  Lightweight and secure desktop Password Manager. Python + Tkinter logic.
-
-- 📥 [**wyvern-downloader**](https://github.com/park-bit/wyvern-downloader)  
-  yt-dlp GUI frontend for people who find the terminal scary. Python + Tkinter.
+-  [**PasMa-desktop**](https://github.com/park-bit/PasMa-desktop)  
+  Secure desktop password manager and credential vault featuring local encrypted storage, password generation, and a lightweight privacy-focused workflow. Built with Python for fast offline access, simple credential       management, and secure authentication handling without reliance on cloud services.
 
 ---
 
-##  Deep Tech Stack
+## Deep Tech Stack
 
-###  AI & Machine Learning
+### AI & Machine Learning
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-f55036?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge)
 
-###  Data Science & Analytics
+### Data Science & Analytics
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
 
-###  Web & Microservices
+### Web & Microservices
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
-###  DevOps & Infrastructure
+### Databases & Infrastructure
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+
 ---
+
 
 ##  Analytics & Progress
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=park-bit&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=park-bit&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
 </p>
 
 ---
