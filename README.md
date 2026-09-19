@@ -28,6 +28,8 @@ I'm a final-year **AI & Data Science** student who likes taking a project from i
 
 I care about **local-first, privacy-respecting software**, tools that run in your browser or on your machine instead of somebody else's server.
 
+[Portfolio](https://parthbhuskade.vercel.app/)
+
 Currently exploring:
 
 -  Applied ML & LLM tooling (RAG, local inference)
